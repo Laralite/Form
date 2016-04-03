@@ -28,7 +28,7 @@
         "psr-4": {
             "Laralite\\Former\\": [
                 "src"
-            ],
+            ]
         }
     }
 }
